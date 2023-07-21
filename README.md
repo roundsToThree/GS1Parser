@@ -23,3 +23,5 @@ Returns
     SerialNumber: null    
 }
 ```
+
+Use the `-client.js` file for client side browser processing (They are missing the "export" statement on functions so they don't error)
